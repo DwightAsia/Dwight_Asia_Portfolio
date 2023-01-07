@@ -1,0 +1,11 @@
+{
+  "name": "dwight-asia-portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio - Asia, Dwight .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asia, Dwight .",
+  "license": "ISC"
+}
